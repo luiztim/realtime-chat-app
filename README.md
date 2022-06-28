@@ -71,5 +71,5 @@ yarn build
 Execute the production build using the following command
 
 ```bash
-yarn build
+yarn start
 ```
