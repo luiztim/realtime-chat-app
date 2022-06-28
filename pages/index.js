@@ -22,7 +22,7 @@ export default function Home() {
       <footer>
         Powered by P-Tech initiative
         <a
-          href="https://github.com/luiztim"
+          href="https://github.com/luiztim/realtime-chat-app"
           className="github-corner"
           aria-label="View source on GitHub"
         >
