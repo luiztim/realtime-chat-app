@@ -1,0 +1,14 @@
+---
+declared-services:
+    wst-watson-language-translator:
+        label: language_translator
+        plan: lite
+applications:
+  - path: .
+    memory: 256M
+    instances: 1
+    name: realtime-chat-translator
+    buildpacks:
+      - sdk-for-nodejs
+    services:
+      - wst-watson-language-translator

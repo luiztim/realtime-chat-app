@@ -73,3 +73,19 @@ Execute the production build using the following command
 ```bash
 yarn start
 ```
+
+## Deploy the server
+
+Click on button below for instructions on deploying the Node.js server.
+
+[![cf](https://raw.githubusercontent.com/IBM/pattern-utils/master/deploy-buttons/cf.png)](doc/cf.md)
+
+## Use the web app
+
+1. Browse to your app URL
+
+   * Use the URL provided at the end of your selected deployment option.
+
+1. Select the language you speak
+
+1. Start chatting
