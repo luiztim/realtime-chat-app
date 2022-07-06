@@ -6,6 +6,8 @@ It uses Ably service for messages sending and IBM Watson Translation service for
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Thanks [Guilherme Oka](https://github.com/ghomarques) for the initial ideas on how to accomplish this. Thank you for all the fish as well...
+
 ![watson-speech-translator.gif](doc/images/realChat.png)
 
 ## Dependencies
